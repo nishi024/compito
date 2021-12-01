@@ -49,5 +49,6 @@ public class ClientStr {
             System.out.println("Error during the connection");
             System.exit(1);
         }
+        
 }
 }
